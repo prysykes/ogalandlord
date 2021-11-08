@@ -1,0 +1,11 @@
+﻿.venv
+.vscode
+managers/__pycache__
+managers/migrations
+ogalandlord/__pycache__
+pages/__pycache__
+pages/migrations
+tenants/__pycache__
+tenants/migrations
+workers/__pycache__
+workers/migrations
